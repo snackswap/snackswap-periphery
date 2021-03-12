@@ -15,8 +15,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@snackswap/core": "1.0.5",
-    "@snackswap/lib": "2.0.8"
+    "@snackswap/core": "git://github.com/snackswap/snackswap-core",
+    "@snackswap/lib": "git://github.com/snackswap/snackswap-lib"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
